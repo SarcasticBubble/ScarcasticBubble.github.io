@@ -1,0 +1,22 @@
+.thick
+{
+    font-weight: bold;
+    font-size: 100px;
+    color:#f50707;
+}
+
+img{
+    width:50%;
+    height:auto;
+}
+
+.steve{
+    background-image: url(https://wallpaperaccess.com/full/171177.jpg);
+    color:white;
+}
+
+.horror{
+    background-image: url(https://media.tenor.com/KRPhRZcwhwwAAAAC/herobrine-i-am-herobrine.gif);
+    color:white;
+}
+
